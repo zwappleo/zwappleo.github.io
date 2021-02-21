@@ -1,32 +1,14 @@
 {
-
 "applinks": {
-
 		"details": [{
-
 			"appID": [ "598T6R4FJ2.ZW.App.Energy-Saver-Calculator" ],
       "path": ["*"]
-
 		}]
-
 	},
-
 "appclips": {
-
         "apps": [ "598T6R4FJ2.ZW.App.Energy-Saver-Calculator.Clip" ]
-
     },
-
-
-
-
    "webcredentials": {
-
       "apps": [ "598T6R4FJ2.ZW.App.Energy-Saver-Calculator" ]
-
    }
-
-
-
-
 }
